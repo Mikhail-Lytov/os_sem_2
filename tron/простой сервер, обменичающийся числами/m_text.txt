@@ -1,0 +1,4 @@
+gcc client.c erproc.c -W -Wall -Werror -o client
+gcc server.c erproc.c -W -Wall -Werror -o server
+ну и запуск по старому
+
